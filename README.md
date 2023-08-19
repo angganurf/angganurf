@@ -3,9 +3,9 @@ Hi there 👋
 
 💬 Join community to learn more about design and dev together.
 
-📫 How to reach me: Twitter @angganurfaisal
+📫 How to reach me: [Twitter](https://twitter.com/angganurfaisal)
 
-🌐 Personal website angganurf.com
+🌐 Personal website  [angganurf.com](https://www.angganurf.com)
 
 💛 You can sponsor here to help build more tools and resources GitHub Sponsor
 
