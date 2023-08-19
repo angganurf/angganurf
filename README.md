@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
+🔭 I’m currently building tools and resources at FsStudio. Experimenting with web3 and XR. Also curate designletter. Check my current project in pinned section below.
 
-<!--
-**angganurf/angganurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Join community to learn more about design and dev together.
 
-Here are some ideas to get you started:
+📫 How to reach me: Twitter @angganurfaisal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Personal website angganurf.com
+
+💛 You can sponsor here to help build more tools and resources GitHub Sponsor
+
+☕ You can sponsor here to help build more tools and resources Buy Me a Coffee
+
+🔆 Fav Quote: Stay Hungry, Stay Foolish
